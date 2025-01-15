@@ -97,16 +97,14 @@ Here are some commonly used commands with examples:
     9.Install Packages from a File:
     pip install -r requirements.txt
 
-Checking if pip is Installed:
+    Checking if pip is Installed:
 
-To check if pip is installed, run:
-pip --version
+        To check if pip is installed, run:
+        pip --version
 
-If it’s installed, you’ll see output like:
+        If it’s installed, you’ll see output like:
+        pip 23.0.1 from /usr/local/lib/python3.9/site-packages (python 3.9)
 
-pip 23.0.1 from /usr/local/lib/python3.9/site-packages (python 3.9)
-
-If pip is not installed, you can install it by downloading get-pip.py and running:
-
-python get-pip.py
+        If pip is not installed, you can install it by downloading get-pip.py and running:
+        python get-pip.py
 
