@@ -60,41 +60,41 @@ Basic pip Commands:
 
 Here are some commonly used commands with examples:
 
-    1.	Install a Package:
+    1.Install a Package:
     pip install package_name
     Example:
     pip install seaborn
 
-    2.	Upgrade a Package:
+    2.Upgrade a Package:
     pip install --upgrade package_name
     Example:
     pip install --upgrade seaborn
 
-    3.	Uninstall a Package:
+    3.Uninstall a Package:
     pip uninstall package_name
     Example:
     pip uninstall seaborn
 
-    4.	List Installed Packages:
+    4.List Installed Packages:
     pip list
 
-    5.	Check for Outdated Packages:
+    5.Check for Outdated Packages:
     pip list --outdated
 
-    6.	Install a Specific Version:
+    6.Install a Specific Version:
     pip install package_name==version_number
     Example:
     pip install seaborn==0.11.2
 
-    7.	Show Package Details:
+    7.Show Package Details:
     pip show package_name
     Example:
     pip show seaborn
 
-    8.	Save Installed Packages to a File:
+    8.Save Installed Packages to a File:
     pip freeze > requirements.txt
 
-    9.	Install Packages from a File:
+    9.Install Packages from a File:
     pip install -r requirements.txt
 
 Checking if pip is Installed:
