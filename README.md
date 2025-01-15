@@ -15,32 +15,32 @@ Key Features of Seaborn:
 Commonly Used Functions in Seaborn:
 1. Distribution Plots:
    o	sns.histplot():
-    - Visualizes data distribution as a histogram.
+    -- Visualizes data distribution as a histogram.
   o	sns.kdeplot():
-    - Plots a kernel density estimate.
+    -- Plots a kernel density estimate.
   o	sns.boxplot():
-    - Displays the distribution of data using a box plot.
+    -- Displays the distribution of data using a box plot.
 2.Relational Plots:
   o	sns.scatterplot():
-    - Creates a scatter plot for visualizing relationships between two variables.
+    -- Creates a scatter plot for visualizing relationships between two variables.
   o	sns.lineplot():
-    - Plots a line chart.
+    -- Plots a line chart.
 3.Categorical Plots:
   o	sns.barplot():
-    - Creates a bar chart with optional statistical aggregation.
+    -- Creates a bar chart with optional statistical aggregation.
   o	sns.countplot():
-    - Counts and plots occurrences of categorical variables.
+    -- Counts and plots occurrences of categorical variables.
   o	sns.violinplot():
-    - Displays the distribution of a numeric variable across categories.
+    -- Displays the distribution of a numeric variable across categories.
 4.Matrix Plots:
   o	sns.heatmap():
-    - Visualizes data in matrix form, commonly used for correlation matrices.
+    -- Visualizes data in matrix form, commonly used for correlation matrices.
 5.Pair Plots:
   o	sns.pairplot():
-    - Visualizes pairwise relationships in a dataset, especially useful for exploratory data analysis.
+    -- Visualizes pairwise relationships in a dataset, especially useful for exploratory data analysis.
 6.	Facet Grids:
   o	sns.FacetGrid():
-    - Maps plots to different subsets of data based on categorical variables.
+    -- Maps plots to different subsets of data based on categorical variables.
       
 Installation:
   To install Seaborn, use pip:
