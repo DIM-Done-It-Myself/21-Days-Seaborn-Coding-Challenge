@@ -18,7 +18,7 @@ Key Features of Seaborn:
     
 Commonly Used Functions in Seaborn:
 1. Distribution Plots:
-  o	sns.histplot():
+   o	sns.histplot():
     - Visualizes data distribution as a histogram.
   o	sns.kdeplot():
     - Plots a kernel density estimate.
