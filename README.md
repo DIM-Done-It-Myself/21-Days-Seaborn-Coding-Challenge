@@ -5,18 +5,18 @@ Seaborn is a Python data visualization library built on top of Matplotlib. It pr
 
 Key Features of Seaborn:
 
-  1.Default Styles: 
-    -- Seaborn comes with aesthetically pleasing default styles that enhance the visual appeal of plots.
+  1.Default Styles:
+    --Seaborn comes with aesthetically pleasing default styles that enhance the visual appeal of plots.
   2.Statistical Functions: 
-    -- It supports statistical plotting, including regression, distribution, and categorical plots.
+    --It supports statistical plotting, including regression, distribution, and categorical plots.
   3.DataFrame Integration: 
-    -- Works seamlessly with pandas DataFrames, making it easy to create plots directly from your datasets.
+    --Works seamlessly with pandas DataFrames, making it easy to create plots directly from your datasets.
   4.Built-in Themes: 
-    -- Offers themes like darkgrid, whitegrid, dark, white, and ticks for customizing the look of your plots.
+    --Offers themes like darkgrid, whitegrid, dark, white, and ticks for customizing the look of your plots.
   5.Complex Plots Made Simple: 
-    -- Simplifies the creation of complex visualizations like heatmaps, violin plots, and pair plots.
+    --Simplifies the creation of complex visualizations like heatmaps, violin plots, and pair plots.
   6.Automatic Handling of Colors: 
-    -- Manages color palettes effectively, allowing for easy creation of visually distinct plots.
+    --Manages color palettes effectively, allowing for easy creation of visually distinct plots.
     
 Commonly Used Functions in Seaborn:
 1. Distribution Plots:
